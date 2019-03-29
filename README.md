@@ -3,7 +3,9 @@ Tic-Tac-Toe is a pencil-and-paper game for two players, X and O, who take turns 
 This program is a game program, Tic-Tac-Toe. Most of us have played this game in our leisure time, and I have made a C++ program on it.
 This program uses a board to control players in each turn players enter a number and choose a move. This program assumes that player one always moves first and uses X's. Player two moves at the second position and uses O's.
 
-Program Structure:The program consists of four steps
+Program Structure:
+
+The program consists of four steps:
 
 * Get input of two players name
 * Display board
